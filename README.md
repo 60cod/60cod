@@ -17,6 +17,8 @@
 	<br><br><br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=60cod&show_icons=true">
 	<br/><br/><br/>
+	<img src="https://ghchart.rshah.org/60cod" />
+	<br/><br/><br/>
 </div>
 
 <!--
