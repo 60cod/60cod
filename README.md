@@ -12,9 +12,11 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=60cod&layout=compact"><br><br>
+	<br/><br/><br/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=60cod&layout=compact">
+	<br><br><br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=60cod&show_icons=true">
+	<br/><br/><br/>
 </div>
 
 <!--
