@@ -24,9 +24,9 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white" />
 	<br/><br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=60cod&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=60cod&layout=compact&langs_count=10" />
 	<br/><br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=60cod&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=60cod&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true" />
 	<br/><br/><br/>
 	<img src="https://ghchart.rshah.org/60cod" />
 	<br/><br/><br/>
