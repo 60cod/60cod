@@ -43,4 +43,6 @@
 	<br/><br/><br/>
 	<img src="https://ghchart.rshah.org/60cod" />
 	<br/><br/><br/>
+	<a href="https://www.ygna.blog" target="_blank"><img src="floating-bot-full.gif" style="width: 380px; height: 600px;" /></a>
+	<br/><br/><br/>
 </div>
