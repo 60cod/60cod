@@ -36,10 +36,10 @@
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-	<br/><br/><br/>
+	<!--<br/><br/><br/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=60cod&layout=compact&langs_count=10" />
 	<br/><br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=60cod&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true" />
+	<img src="https://github-readme-stats.vercel.app/api?username=60cod&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true" />-->
 	<br/><br/><br/>
 	<img src="https://ghchart.rshah.org/60cod" />
 	<br/><br/><br/>
